@@ -49,7 +49,7 @@
               <li id="services"><a href="services.php">SERVICES</a></li>
               <li><a href="#">SPECIALTIES</a></li>
               <li><a href="#">TPA AND INSURANCE</a></li>
-              <li><a href="#">GALLARY</a></li>
+              <li><a href="#">GALLERY</a></li>
               <li><a href="#" id="last">CONTACT</a></li>
             </ul>
           </div><!-- /.navbar-collapse -->
